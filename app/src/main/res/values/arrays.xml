@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="playback_behavior_entries">
+        <item>Auto-pause during voice commands</item>
+        <item>Duck volume during voice commands</item>
+        <item>Ignore voice commands while playing</item>
+    </string-array>
+    
+    <string-array name="playback_behavior_values">
+        <item>auto_pause</item>
+        <item>duck</item>
+        <item>ignore</item>
+    </string-array>
+</resources>
