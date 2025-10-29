@@ -1,0 +1,9 @@
+This is a placeholder file.
+
+To enable audio playback in the SoundSanctuary feature:
+1. Download a soothing audio file (rain, ocean, white noise, etc.)
+2. Rename it to: rain_loop.mp3
+3. Replace this placeholder file with the actual audio file
+
+The app will compile and run without the audio file, but playback will not work.
+See README.md in this directory for more information.
